@@ -1,0 +1,38 @@
+.Issue{
+    border-bottom: 1px solid #ccc;
+    padding:10px 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+    
+}
+.Issue2{
+
+}
+
+.p-text{
+    font-size: 10px;
+    
+}
+
+.span{
+    display: inline-block;
+    padding: 0 7px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    border: 1px solid blue transparent;
+    border-radius: 2em;
+    
+    color: #ffffff;
+}
+
+.comments{
+    padding:0 7px;
+    margin-left: auto;
+
+}
+
+.created{
+    font-size:10px;
+}
